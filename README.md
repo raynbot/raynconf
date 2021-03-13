@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @91A
-- 👀 I’m interested in anything related to customization of a device or software, as well as bot programming and AI capabilities.
+- 👀 I’m interested in anything related to the customization of a device or software, as well as bot programming and AI capabilities.
 - 🌱 I’m currently learning Python, and eventually other coding languages to help with building a career.
 - 💞️ I’m willing to collaborate on any project with the understanding that I am new to github and coding in general.
 - 📫 Reach me at my email, tcf.ctrl@gmail.com
