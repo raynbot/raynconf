@@ -4,7 +4,7 @@
 
 〉 🧠 I’m currently focusing on Arch and Mac based applications.
 
-〉 🌐 Developing nyxt-sanctuary, a WIP, custom web browser.
+〉 🌐 Developing nyxt-sanctuary, a WIP, customizable configuration for Nyxt.
 
 〉 📫 Reach me at my email, rayn@rayn.bot.
 
