@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @raynbot
-- 👀 I’m interested in anything related to the customization of a device or software, as well as bot programming and AI capabilities.
-- 🌱 I’m currently learning Python, HTML, JS, CSS, Swift and eventually other languages to help with building a career.
-- 💞️ I’m willing to collaborate on any project with the understanding that I am new to github and coding in general.
-- 📫 Reach me at my email, rayn@rayn.bot.
+> 😽 Hi, I’m @raynbot
+> 💅 I'm just a girl.
+> 🧠 I’m currently focusing on Arch and Mac based applications.
+> 🌐 Developing nyxt-sanctuary, a WIP, custom web browser.
+> 📫 Reach me at my email, rayn@rayn.bot.
 
 <!---
-91A/91A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+raynconf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
