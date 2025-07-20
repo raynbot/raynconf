@@ -2,9 +2,9 @@
 
 〉 💅 I'm just a girl.
 
-〉 🧠 I’m currently focusing on Arch and Mac based applications.
+〉 🧠 I’m currently focused on foundational growth and simple projects.
 
-〉 🌐 Developing nyxt-sanctuary, a WIP, customizable configuration for Nyxt.
+〉 🌐 maintaining `/aesthetica`, a simple status bot for Discord.
 
 〉 📫 Reach me at my email, rayn@rayn.bot.
 
