@@ -1,12 +1,16 @@
-〉 😽 Hi, I’m @raynbot
+# Hi, I’m Alessa (aka @raynbot)
 
-〉 💅 I'm just a girl.
+〉 💻 Aspiring full-stack developer with a focus on the open web, user-first interfaces, and clean, efficient code.
 
-〉 🧠 I’m currently focused on foundational growth and simple projects.
+〉 🧠 Currently working on foundational growth, building tools that feel thoughtful and useful.
 
-〉 🌐 maintaining `/aesthetica`, a simple status bot for Discord.
+〉 🌐 Maintainer of [aesthetica](https://github.com/raynbot/aesthetica) — a simple status bot for Discord.
 
-〉 📫 Reach me at my email, rayn@rayn.bot.
+〉 🧪 Exploring: AT Protocol, Node.js, Next.js, Tailwind, and custom CLI configs.
+
+
+📫 Reach me at: [rayn@rayn.bot](mailto:rayn@rayn.bot)  
+🌎 Visit my site: [alessa.sh](https://alessa-sh.netlify.app)
 
 <!---
 raynconf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
